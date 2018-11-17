@@ -1,0 +1,58 @@
+version: "2"
+services:
+  microclimate-file-watcher:
+    image: ${REPOSITORY}microclimate-file-watcher${PLATFORM}:${TAG}
+    container_name: microclimate-file-watcher
+    entrypoint: /scripts/root-watcher.sh ${WORKSPACE_DIRECTORY}
+    environment:
+      - HOST_OS=${HOST_OS}
+    ports:
+      - "127.0.0.1:9091:9091"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ${WORKSPACE_DIRECTORY}:/microclimate-workspace
+    networks:
+      - network
+
+  microclimate-portal:
+    image: ${REPOSITORY}microclimate-portal${PLATFORM}:${TAG}
+    container_name: microclimate-portal
+    environment:
+      - EDITOR_IMAGE=${REPOSITORY}microclimate-theia${PLATFORM}:${TAG}
+      - FILE_WATCHER_IMAGE=${REPOSITORY}microclimate-file-watcher${PLATFORM}:${TAG}
+      - HOST_WORKSPACE_DIRECTORY=${WORKSPACE_DIRECTORY}
+      - HOST_OS=${HOST_OS}
+      - TELEMETRY=${TELEMETRY}
+      - MICROCLIMATE_VERSION=${TAG}
+    depends_on:
+      - microclimate-file-watcher
+      - microclimate-theia
+      - microclimate-loadrunner
+    ports:
+      - "127.0.0.1:9090:9090"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ${WORKSPACE_DIRECTORY}:/microclimate-workspace
+    networks:
+      - network
+
+  microclimate-theia:
+    image: ${REPOSITORY}microclimate-theia${PLATFORM}:${TAG}
+    container_name: microclimate-theia
+    volumes:
+      - ${WORKSPACE_DIRECTORY}:/microclimate-workspace
+    ports:
+      - "127.0.0.1:4191:4191"
+    networks:
+      - network
+
+  microclimate-loadrunner:
+    image: ${REPOSITORY}microclimate-loadrunner${PLATFORM}:${TAG}
+    container_name: microclimate-loadrunner
+    ports:
+      - "127.0.0.1:9092:9092"
+    networks:
+      - network
+
+networks:
+  network:

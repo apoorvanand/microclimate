@@ -1,0 +1,700 @@
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para Programas sin Garantía (Z125-5589-05).
+
+Nombre de Programa (Número de Programa):
+Microclimate (Tool)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Usos prohibidos
+
+El Licenciatario no puede utilizar ni autorizar a terceros para utilizar el Programa, ni de forma independiente ni en combinación con otros servicios o productos, para dar soporte a las siguientes actividades de alto riesgo: diseño, construcción, control o mantenimiento de instalaciones nucleares, sistemas de transporte público, sistemas de control de tráfico aéreo, sistemas de control de automoción, sistemas de armas o navegación o comunicaciones aéreas, o cualquier otra actividad en la que el fallo de un programa podría causar una amenaza de muerte o graves daños físicos.
+
+Código con Licencia Separada
+
+Las estipulaciones que se establecen en este párrafo no se aplicarán en caso de que se declaren inválidas o sin fuerza ejecutoria bajo la ley que rige esta licencia. Los componentes que se enumeran a continuación se consideran "Código con Licencia Separada". El Código con Licencia Separada de IBM se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa. Independientemente de los términos del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, los términos de dichos acuerdos de licencia de terceros rigen el uso por parte del Licenciatario de todo el Código con Licencia Separada, excepto que se especifique de otro modo a continuación.
+
+Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia Separada. Dicho Código con Licencia Separada adicional y sus correspondientes licencias se listarán en otro archivo NON_IBM_LICENSE que acompaña a la actualización o a la corrección del Programa. El Licenciatario reconoce que ha leído y acepta los acuerdos de licencia que se incluyen en los archivos NON_IBM_LICENSE. Si el Licenciatario no acepta los términos de estos acuerdos de licencia de terceros, el Licenciatario no puede utilizar el Código con Licencia Separada.
+
+En cuanto a los Programas adquiridos de acuerdo con el IPLA (Acuerdo Internacional de Programas bajo Licencia) o ILAN (Acuerdo Internacional de Licencia para Programas Sin Garantía) y siempre que el Licenciatario sea el licenciatario original del Programa, si el Licenciatario no acepta los acuerdos de licencia de terceros, el Licenciatario puede devolver el Programa de acuerdo con los términos del apartado "Garantía de devolución" del Acuerdo de IBM, IPLA o ILAN, y en el periodo de tiempo establecido.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM:
+(a) IBM proporciona este Código con Licencia Separada al Licenciatario SIN GARANTÍA DE NINGÚN TIPO;
+(b) IBM NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA E IMPLÍCITA INCLUIDAS, PERO SIN LIMITARSE A, LA GARANTÍA DE TÍTULO, LA GARANTÍA RESPECTO A DERECHOS DE TERCEROS O INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA RESPECTO AL CÓDIGO CON LICENCIA SEPARADA;
+(c) IBM no será responsable ante el Licenciatario, y no defenderá, ni mantendrá indemne o fuera de toda responsabilidad al Licenciatario de ninguna reclamación que surja del Código con Licencia Separada o esté relacionada con éste; y
+(d) IBM no se responsabiliza de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo o consecuencial incluidas, pero sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios respecto al Código con Licencia Separada.
+
+A pesar de estas exclusiones, en Alemania y Austria, la garantía y la responsabilidad de IBM para el Código con Licencia Separada se rigen únicamente por los respectivos términos aplicables en Alemania y en Austria en los acuerdos de licencia de IBM.
+
+Nota: Es posible que IBM proporcione soporte limitado para parte del Código con Licencia Separada. Si dicho soporte está disponible, los detalles y los términos adicionales relacionados con dicho soporte se establecerán en el documento de Información sobre Licencia.
+
+A continuación se enumera Código con Licencia Separada:
+fonts-dejavu-core - 2.37-1
+fonts-dejavu-extra - 2.37-1
+spdx-exceptions (Node) - 2.1.0
+caniuse-lite - 1.0.300008...
+xpath - 0.0.23
+adwaita-icon-theme - 3.22.0-1+deb9u1
+libmodule-signature-perl - 0.73-1+deb8u2
+alpine-baselayout - 3.0.5-r2
+apk-tools - 2.8.2-r0
+apt - 1.0.9.8.4
+apt - 1.4.8
+base-passwd - 3.5.37
+bsdutils - 1:2.25.2-6
+bsdutils - 1:2.29.2-1
+busybox - 1.27.2-r7
+ca-certificates - 20171114-r0
+cmd-parser - 0.0.2
+cron - 3.0pl1-127+deb8u1
+dbus - 1.10.24-0+deb9u1
+debian-archive-keyring - 2017.5
+dpkg - 1.17.27
+dpkg - 1.18.24
+exim4 - 4.84.2-2+deb8u5
+fstream - :2.11.0-3+deb9u2
+git - :2.11.0-3+deb9u2
+git - 1:2.11.0-3+deb9u2
+git - 2.16.2
+git - 2.18.0
+git-man - 1:2.11.0-3+deb9u2
+gosu - 1.1
+inotify-tools - 3.14-1ubuntu1
+java10api - 10
+libapparmor1 - 2.11.0-3
+libapt-pkg4.12 - 1.0.9.8.4
+libapt-pkg5.0 - 1.4.8
+libassuan0 - 2.4.3-2
+libaudit-common - 1:2.6.7-2
+libaudit1 - 1:2.6.7-2
+libblkid1 - 2.25.2-6
+libblkid1 - 2.29.2-1
+libcolord2 - 1.3.3-2
+libcryptsetup4 - 2:1.6.6-5
+libfdisk1 - 2.29.2-1
+libfreetype6 - 2.6.3-3.2
+libgail18 - 2.24.31-2
+libgcc1 - 1:6.3.0-18
+libgnutls30 - 3.5.8-5+deb9u3
+libgtk2.0-0 - 2.24.31-2
+libgtk2.0-bin - 2.24.31-2
+libgtk2.0-common - 2.24.31-2
+libjbig0 - 2.1-3.1+b2
+libkeyutils1 - 1.5.9-5+b1
+libkeyutils1 - 1.5.9-9
+libmount1 - 2.25.2-6
+libmount1 - 2.29.2-1
+libnpth0 - 1.3-1
+libpng16-16 - 1.6.28-1
+libpopt0 - 1.16-10
+libpython2.7-stdlib - 2.7.9-2+deb8u1
+libslang2 - 2.3.0-2
+libsmartcols1 - 2.25.2-6
+libsmartcols1 - 2.29.2-1
+libss2 - 1.42.12-2+b1
+libss2 - 1.43.4-2
+libuuid1 - 2.25.2-6
+libuuid1 - 2.29.2-1
+lsb-base - 4.1+Debian13+nmu1
+lsb-base - 9.20161125
+lsb-release - 4.1+Debian13+nmu1
+mount - 2.25.2-6
+mount - 2.29.2-1
+musl-utils - 1.1.18-r2
+nami - 0.0.6
+nami-core - 0.2.2
+nami-logger - 0.0.1
+nami-tool - 0.0.6
+openjdk-8-jdk - 8u151-b12-1~deb9u1
+openjdk-8-jdk-headless - 8u151-b12-1~deb9u1
+perl - 5.20.2-3+deb8u9
+perl - 5.24.1-3+deb9u2
+postgresql-client-common - 190.pgdg80+1
+postgresql-common - 190.pgdg80+1
+scanelf - 1.2.2-r1
+sensible-utils - 0.0.9
+sgml-base - 1.29
+startpar - 0.59-3
+ua-parser-js - 0.7.12
+ucf - 3.0036
+udev - 215-17+deb8u7
+util-linux - 2.25.2-6
+util-linux - 2.29.2-1
+xml-core - 0.17
+libcups2 - 2.2.1-8
+libgpg-error0 - 1.17-3
+libgpg-error0 - 1.26-2
+openjdk-8-jre - 8u151-b12-1~deb9u1
+dirmngr - 2.1.18-8~deb9u1
+findutils - 4.6.0+git+20161106-2
+gnupg - 1.4.18-7+deb8u3
+gnupg - 1.4.18-7+deb8u4
+gnupg - 2.1.18-8~deb9u1
+gnupg-agent - 2.1.18-8~deb9u1
+gpgv - 1.4.18-7+deb8u3
+gpgv - 1.4.18-7+deb8u4
+grep - 2.27-2
+libicu57 - 57.1-6+deb9u2
+libidn11 - 1.29-1+deb8u2
+libidn11 - 1.33-1
+libidn2-0 - 0.16-1+deb9u1
+pinentry-curses - 1.0.0-2
+libgcc1 - 1:4.9.2-10
+acl - 2.2.52-2
+base-files - 8+deb8u10
+base-files - 8+deb8u7
+base-files - 9.9+deb9u3
+bash - 4.4-5
+bzip2 - 1.0.6-7+b3
+ca-certificates-java - 20170531+nmu1
+coreutils - 8.23-4
+coreutils - 8.26-3
+dash - 0.5.7-4+b1
+debian-archive-keyring - 2014.3
+debian-archive-keyring - 2017.5~deb8u1
+debianutils - 4.4+b1
+diffutils - 1:3.3-1+b1
+dmsetup - 2:1.02.90-2.2+deb8u1
+e2fslibs - 1.43.4-2
+e2fsprogs - 1.42.12-2+b1
+e2fsprogs - 1.43.4-2
+gcc-4.8-base - 4.8.4-1
+gcc-4.9-base - 4.9.2-10
+gcc-6-base - 6.3.0-18
+gnome-icon-theme - 3.12.0-2
+gzip - 1.6-4
+gzip - 1.6-5+b1
+hicolor-icon-theme - 0.15-1
+hostname - 3.15
+initscripts - 2.88dsf-59
+insserv - 1.14.0-5
+iproute2 - 3.16.0-2
+iproute2 - 4.9.0-1+deb9u1
+krb5-locales - 1.12.1+dfsg-19+deb8u4
+libacl1 - 2.2.52-2
+libacl1 - 2.2.52-3+b1
+libatk1.0-0 - 2.22.0-1
+libattr1 - 1:2.4.47-2+b2
+libaudit-common - 1:2.4-1
+libaudit1 - 1:2.4-1+b1
+libavahi-client3 - 0.6.32-2
+libavahi-common-data - 0.6.32-2
+libavahi-common3 - 0.6.32-2
+libbz2-1.0 - 1.0.6-7+b3
+libbz2-1.0 - 1.0.6-8.1
+libc-bin - 2.19-18+deb8u7
+libc-bin - 2.24-11+deb9u1
+libc6 - 2.19-18+deb8u10
+libc6 - 2.19-18+deb8u9
+libc6 - 2.24-11+deb9u1
+libcairo2 - 1.14.8-1
+libcap-ng0 - 0.7.7-3+b1
+libcomerr2 - 1.42.12-2+b1
+libcomerr2 - 1.43.4-2
+libcroco3 - 0.6.11-3
+libegl1-mesa - 13.0.6-1+b2
+libelf1 - 0.168-1
+libffi6 - 3.1-2+b2
+libffi6 - 3.1-2+deb8u1
+libgbm1 - 13.0.6-1+b2
+libgcrypt20 - 1.6.3-2+deb8u2
+libgcrypt20 - 1.6.3-2+deb8u4
+libgcrypt20 - 1.7.6-2+deb9u2
+libgdbm3 - 1.8.3-13.1
+libgdbm3 - 1.8.3-14
+libgdk-pixbuf2.0-0 - 2.36.5-2+deb9u1
+libgdk-pixbuf2.0-0 - 2.36.5-2+deb9u2
+libgdk-pixbuf2.0-common - 2.36.5-2+deb9u1
+libgl1-mesa-dri - 13.0.6-1+b2
+libgl1-mesa-glx - 13.0.6-1+b2
+libglapi-mesa - 13.0.6-1+b2
+libglib2.0-0 - 2.50.3-2
+libgmp10 - 2:6.0.0+dfsg-6
+libgmp10 - 2:6.1.2+dfsg-1
+libgssapi-krb5-2 - 1.12.1+dfsg-19+deb8u2
+libgssapi-krb5-2 - 1.12.1+dfsg-19+deb8u4
+libk5crypto3 - 1.12.1+dfsg-19+deb8u2
+libk5crypto3 - 1.12.1+dfsg-19+deb8u4
+libk5crypto3 - 1.15-1+deb9u1
+libkmod2 - 18-3
+libkrb5-3 - 1.12.1+dfsg-19+deb8u2
+libkrb5-3 - 1.15-1+deb9u1
+libkrb5support0 - 1.12.1+dfsg-19+deb8u2
+libksba8 - 1.3.5-2
+liblockfile-bin - 1.09-6
+liblockfile1 - 1.09-6
+libnss3 - 2:3.26.2-1.1+deb9u1
+libpam-modules - 1.1.8-3.1+deb8u2
+libpam-modules - 1.1.8-3.1+deb8u2+b1
+libpam-modules - 1.1.8-3.6
+libpam-modules-bin - 1.1.8-3.1+deb8u2
+libpam-modules-bin - 1.1.8-3.1+deb8u2+b1
+libpam-modules-bin - 1.1.8-3.6
+libpam-runtime - 1.1.8-3.1+deb8u2
+libpam-runtime - 1.1.8-3.6
+libpam0g - 1.1.8-3.1+deb8u2
+libpam0g - 1.1.8-3.6
+libpango-1.0-0 - 1.40.5-1
+libpangoft2-1.0-0 - 1.40.5-1
+libpciaccess0 - 0.13.4-1+b2
+libprocps3 - 2:3.3.9-9
+libpython-stdlib - 2.7.13-2
+libpython-stdlib - 2.7.9-1
+libreadline6 - 6.3-8+b3
+libreadline7 - 7.0-3
+librtmp1 - 2.4+20150115.gita107cef-1+deb8u1
+librtmp1 - 2.4+20151223.gitfa8646d.1-1+b1
+libselinux1 - 2.3-2
+libselinux1 - 2.6-3+b3
+libsemanage-common - 2.3-1
+libsemanage-common - 2.6-2
+libsemanage1 - 2.3-1+b1
+libsemanage1 - 2.6-2
+libsensors4 - 1:3.3.5-2
+libsepol1 - 2.3-2
+libsepol1 - 2.6-2
+libsndfile1 - 1.0.27-3
+libsvn1 - 1.9.5-1+deb9u1
+libsystemd0 - 232-25+deb9u2
+libtasn1-6 - 4.10-1.1
+libtasn1-6 - 4.10-1.1+deb9u1
+libtasn1-6 - 4.2-3+deb8u3
+libtext-charwidth-perl - 0.04-7+b3
+libtext-iconv-perl - 1.7-5+b2
+libtext-wrapi18n-perl - 0.06-7
+libusb-0.1-4 - 2:0.1.12-25
+libwayland-egl1-mesa - 13.0.6-1+b2
+locales - 2.19-18+deb8u10
+locales - 2.19-18+deb8u9
+login - 1:4.2-3+deb8u3
+login - 1:4.2-3+deb8u4
+mawk - 1.3.3-17+b3
+multiarch-support - 2.19-18+deb8u10
+multiarch-support - 2.19-18+deb8u7
+multiarch-support - 2.24-11+deb9u1
+netbase - 5.3
+netbase - 5.4
+openjdk-8-jre-headless - 8u151-b12-1~deb9u1
+passwd - 1:4.2-3+deb8u3
+passwd - 1:4.2-3+deb8u4
+passwd - 1:4.4-4.1
+perl-base - 5.20.2-3+deb8u6
+perl-base - 5.20.2-3+deb8u9
+perl-base - 5.24.1-3+deb9u2
+perl-modules - 5.20.2-3+deb8u9
+perl-modules-5.24 - 5.24.1-3+deb9u2
+procps - 2:3.3.9-9
+python - 2.7.13-2
+python - 2.7.9-1
+python-minimal - 2.7.9-1
+readline-common - 6.3-8
+readline-common - 7.0-3
+sed - 4.2.2-4+deb8u1
+sed - 4.4-1
+sensible-utils - 0.0.9+deb8u1
+sezpoz - 1.12
+sgml-base - 1.26+nmu4
+shared-mime-info - 1.8-1
+subversion - 1.9.5-1+deb9u1
+sysstat - 11.0.1-1
+sysv-rc - 2.88dsf-59
+sysvinit-utils - 2.88dsf-59
+sysvinit-utils - 2.88dsf-59.9
+tar - 1.27.1-2+deb8u1
+tar - 1.29b-1.1
+ucf - 3.003
+wget - 1.18-5+deb9u1
+xdg-user-dirs - 0.15-2+b1
+xml-core - 0.13+nmu2
+at-spi2-core - 2.22.0-6+deb9u1
+bsh - 2.0.b4
+bsh - 2.0.b5
+dconf-gsettings-backend - 0.26.0-2+b1
+dconf-service - 0.26.0-2+b1
+glib-networking-common - 2.50.0-1
+gsettings-desktop-schemas - 3.22.0-1
+jcifs - 1.3.17
+libaio1 - 0.3.110-1
+libasound2 - 1.1.3-5
+libasound2-data - 1.1.3-5
+libasyncns0 - 0.8-6
+libatk-bridge2.0-0 - 2.22.0-2
+libatk-wrapper-java - 0.33.3-13
+libatk-wrapper-java - 0.33.3-13+deb9u1
+libatk-wrapper-java-jni - 0.33.3-13
+libatspi2.0-0 - 2.22.0-6+deb9u1
+libc6 - 2.23.0
+libdatrie1 - 0.2.10-4+b1
+libdconf1 - 0.26.0-2+b1
+libgail-common - 2.24.31-2
+libgraphite2-3 - 1.3.10-1
+libgtk-3-0 - 3.22.11-1
+libgtk-3-bin - 3.22.11-1
+libgtk-3-common - 3.22.11-1
+libhogweed2 - 2.7.1-5+deb8u2
+libhogweed4 - 3.3-1+b2
+libjson-glib-1.0-0 - 1.2.6-1
+libjson-glib-1.0-common - 1.2.6-1
+libnettle4 - 2.7.1-5+deb8u2
+libnettle6 - 3.3-1+b2
+libprocps6 - 2:3.3.12-3
+libpulse0 - 10.0-1+deb9u1
+librest-0.7-0 - 0.8.0-2
+librsvg2-2 - 2.40.16-1+b1
+libsoup-gnome2.4-1 - 2.56.0-2+deb9u1
+libsoup2.4-1 - 2.56.0-2+deb9u1
+libsystemd0 - 215-17+deb8u7
+libsystemd0 - 232-25+deb9u1
+libthai-data - 0.1.26-1
+libthai0 - 0.1.26-1
+libudev1 - 215-17+deb8u7
+libudev1 - 232-25+deb9u1
+libustr-1.0-1 - 1.0.4-3+b2
+libustr-1.0-1 - 1.0.4-6
+locutus - 2.0.9
+procps - 2:3.3.12-3
+systemd - 215-17+deb8u7
+systemd-sysv - 215-17+deb8u7
+j-interop - 2.0.6
+libgnutls-deb0-28 - 3.3.8-6+deb8u7
+libunistring0 - 0.9.6+really0.9.3-0.1
+spdx-exceptions - 2.2.0
+binutils-common - 2.30
+gcc-7-base - 7.3.0
+javascript-common - 11
+libasn1-8-heimdal - 7.5.0+dfsg
+libgcc-7-dev - 7.3.0
+libgdbm-compat4 - 1.14.1
+libgdbm5 - 1.14.1
+libgssapi3-heimdal - 7.5.0+dfsg
+libhcrypto4-heimdal - 7.5.0+dfsg
+libheimntlm0-heimdal - 7.5.0+dfsg
+libhx509-5-heimdal - 7.5.0+dfsg
+libisl19 - 0.19
+libkrb5-26-heimdal - 7.5.0+dfsg
+libperl5.26 - 5.26.1
+libroken18-heimdal - 7.5.0+dfsg
+libstdc++-7-dev - 7.3.0
+libwind0-heimdal - 7.5.0+dfsg
+node-mute-stream - 0.0.7
+node-read - 1.0.7
+node-retry - 0.10.1
+patch - 2.7.6
+perl-modules-5.26 - 5.26.1
+spdx-exceptions - 1.0.3
+spdx-expression-parse - 1.0.0
+
+Realización de evaluaciones comparativas (Benchmarking)
+
+El Licenciatario puede revelar los resultados de cualquier evaluación comparativa del Programa o de sus subcomponentes a cualquier tercero siempre que (A) revele de forma pública la metodología completa utilizada en las evaluaciones comparativas (por ejemplo, la configuración de hardware y software, el procedimiento de instalación y los archivos de configuración), (B) realice las evaluaciones comparativas ejecutando el Programa en su Entorno Operativo Especificado usando las actualizaciones, parches y arreglos aplicables más recientes disponibles para el Programa de IBM y (C) siga todos los ajustes de rendimiento y la guía de "mejores prácticas" disponibles en la documentación del Programa y en los sitios web de soporte de IBM para el Programa. Si el Licenciatario publica los resultados de cualquier evaluación comparativa para el Programa, aunque se indique lo contrario en cualquier acuerdo establecido entre el Licenciatario e IBM o Terceros, IBM y los Terceros tendrán el derecho de publicar las evaluaciones comparativas con respecto a los productos del Licenciatario, siempre que IBM o los Terceros cumplan los requisitos establecidos en los apartados (A), (B) y (C) anteriores durante la realización de las pruebas de los productos del Licenciatario.
+
+Independientemente de lo expuesto anteriormente, el Licenciatario no puede, bajo ninguna circunstancia, publicar los resultados de las evaluaciones comparativas en Oracle Outside In Technology, sin previo aviso por escrito.
+
+Los términos de realización de evaluaciones comparativas se aplican a los siguientes Programas o subcomponentes:
+Microclimate
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa puede incluir algunos componentes en formato de código fuente ("Componente en Código Fuente") y otros materiales identificados como Materiales de muestra. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Restricciones de exportación e importación
+
+Este Programa puede contener cifrado. El uso o la transferencia del Programa a usuarios puede estar prohibido o sujeto a las leyes, los reglamentos y las políticas de importación y exportación, incluidos aquellos de las Regulaciones de Administración de Exportaciones (Export Administration Regulations) de Estados Unidos. El Licenciatario asume la plena responsabilidad de cumplir con todas las leyes, los reglamentos y las políticas aplicables respecto a la exportación, la importación o la utilización del presente Programa, incluidas pero sin limitarse a, las restricciones EE. UU. sobre exportaciones o reexportaciones. Para obtener la clasificación de exportaciones de este Programa consulte: https://www.ibm.com/products/exporting/.
+
+L/N:  L-NCAN-B5KBNB
+D/N:  L-NCAN-B5KBNB
+P/N:  L-NCAN-B5KBNB
+
+
+Acuerdo Internacional de Licencia para Programas sin Garantía
+
+Parte 1 - Condiciones Generales
+
+EL LICENCIATARIO ACEPTA LOS TÉRMINOS DE ESTE ACUERDO MEDIANTE LA DESCARGA, INSTALACIÓN, COPIA, ACCESO, PULSANDO EL BOTÓN "ACEPTAR" O MEDIANTE CUALQUIER TIPO DE UTILIZACIÓN DEL PROGRAMA. SI EL CLIENTE ACEPTA ESTOS TÉRMINOS EN NOMBRE DEL LICENCIATARIO, EL CLIENTE DECLARA Y GARANTIZA QUE TIENE PLENA AUTORIDAD PARA OBLIGAR AL LICENCIATARIO A CUMPLIR DICHOS TÉRMINOS. SI NO ACEPTA ESTOS TÉRMINOS,
+
+* DESCARGAR, INSTALAR, COPIAR, ACCEDER, PULSAR EL BOTÓN "ACEPTAR" NI USAR EL PROGRAMA; Y DEBERÁ
+
+* DEVOLVER INMEDIATAMENTE LOS MEDIOS NO UTILIZADOS Y LA DOCUMENTACIÓN A LA ENTIDAD A LA CUAL LOS ADQUIRIÓ PARA EL REEMBOLSO DEL IMPORTE PAGADO. SI EL PROGRAMA FUE DESCARGADO, DEBERÁN DESTRUIRSE TODAS LAS COPIAS DEL PROGRAMA.
+
+1. Definiciones
+
+"Uso Autorizado" - es el nivel especificado para el cual el Licenciatario está autorizado para ejecutar o hacer funcionar el Programa. Dicho nivel puede medirse por el número de usuarios, millones de unidades de servicio ("MSUs"), Unidades de Valor de Procesador (Processor Value Units o "PVUs"), u otro nivel de uso especificado por IBM.
+
+"IBM" - International Business Machines Corporation o una de sus subsidiarias.
+
+"Información sobre Licencia" ("LI") - es un documento que proporciona información y cualquier término adicional específico para un Programa. La LI del Programa está disponible en www.ibm.com/software/sla. También puede encontrar la LI en el directorio del Programa, mediante el uso de un mandato del sistema, o como un folleto informativo incluido en el Programa.
+
+"Programa" - es lo siguiente, incluyendo el original y cualquier copia total o parcial de: 1) instrucciones y datos legibles por máquina, 2) componentes, archivos y módulos, 3) contenido audiovisual (como imágenes, texto, grabaciones o dibujos), y 4) materiales bajo licencia relacionados (como claves y documentación).
+
+2. Estructura del Acuerdo
+
+Este Acuerdo incluye la Parte 1 - Condiciones Generales, Parte 2 - Condiciones exclusivas para cada país (si las hubiera) y la Información sobre Licencia que constituyen el acuerdo completo entre el Licenciatario e IBM en relación al uso del Programa. Sustituye a cualquier comunicación oral o escrita anterior entre las partes en relación al uso del Programa por parte del Licenciatario. Los términos de la Parte 2 pueden sustituir o modificar los términos de la Parte 1. En el supuesto de cualquier conflicto, los términos de la LI prevalecen sobre los de ambas Partes.
+
+3. Licencia
+
+El Programa es propiedad de IBM o de un distribuidor de IBM y está sujeto a derechos de autor y se otorga bajo licencia, no se vende.
+
+IBM le concede al Licenciatario una licencia no exclusiva para 1) utilizar el Programa según los términos establecidos en el Uso Autorizado especificado en la factura, 2) realizar e instalar copias que respalden dicho Uso Autorizado, y 3) realizar una copia de seguridad, todo ello siempre y cuando:
+
+a. el Licenciatario haya obtenido el Programa de forma legítima y cumpla los términos de este Acuerdo;
+
+b. la copia de seguridad no se ejecute a menos que el Programa del que se haya realizado la copia no pueda ejecutarse;
+
+c. el Licenciatario reproduzca todas las notificaciones de copyright y otros distintivos de titularidad en cada copia, o copia parcial del Programa;
+
+d. el Licenciatario se asegure de que cualquier persona que utilice el Programa (tanto si accede localmente o de forma remota): 1) lo hace únicamente en nombre del Licenciatario, y 2) cumple los términos de este Acuerdo;
+
+e. el Licenciatario no podrá 1) utilizar, copiar, modificar ni distribuir el Programa excepto del modo permitido expresamente en este Acuerdo; 2) desensamblar, descompilar, traducir de otro modo o realizar técnicas de ingeniería inversa en el Programa, excepto en la medida permitida expresamente por ley sin posibilidad de renuncia contractual; 3) utilizar cualquiera de los componentes, archivos, módulos, contenido audiovisual del Programa, o materiales bajo licencia relacionados, de forma separada de dicho Programa; o 4) sublicenciar, alquilar o arrendar el Programa; y
+
+f. si el Licenciatario obtiene este Programa como un Programa de Soporte, el Licenciatario utilizará el Programa únicamente como soporte del Programa Principal y sujeto a cualquier limitación de la licencia del Programa Principal, o, si el Licenciatario obtiene este Programa como Programa Principal, el Licenciatario utilizará todos los Programas de Soporte únicamente como soporte de este Programa y sujetos a cualquier limitación establecida en este Acuerdo. A los efectos de este apartado "f," un "Programa de Soporte" es un Programa que forma parte de otro Programa de IBM ("Programa Principal") y se identifica como Programa de Soporte en la LI del Programa Principal. Para obtener una licencia independiente para un Programa de Soporte sin estas restricciones, el Licenciatario debe ponerse en contacto con la parte a la cual adquirió el Programa de Soporte.
+
+Esta licencia se aplica a cada copia del Programa que realice el Licenciatario.
+
+3.1 Actualizaciones, Mejoras, Correcciones y Parches
+
+3.1.1 Actualizaciones
+
+Si se sustituye el Programa por una actualización, la licencia del Programa sustituido se rescindirá inmediatamente.
+
+3.1.2 Mejoras, Correcciones y Parches
+
+En el caso en que el Licenciatario reciba una mejora, corrección o parche para un Programa, el Licenciatario acepta cualquier término adicional o diferente que sea aplicable a dicha mejora, corrección o parche que esté especificada en su LI. Si no se proporcionan términos adicionales o diferentes, la mejora, corrección o parche estará sujeto únicamente a este Acuerdo. Si el Programa se sustituye por una mejora, el Licenciatario acuerda interrumpir inmediatamente el uso del Programa sustituido.
+
+3.2 Licencias a Plazo Fijo
+
+Si IBM otorga el Programa bajo licencia durante un plazo determinado, la licencia del Licenciatario terminará al final del plazo determinado, a menos que el Licenciatario e IBM acuerden su renovación.
+
+3.3 Vigencia y Terminación
+
+Los términos de este Acuerdo son efectivos hasta su terminación.
+
+IBM puede terminar la licencia del Licenciatario en caso que éste incumpla los términos de este Acuerdo.
+
+En el caso en que cualquiera de las partes termine la licencia por cualquier causa, el Licenciatario acuerda interrumpir el uso inmediatamente y destruir todas sus copias del Programa. Cualquier término de este Acuerdo que por su carácter tenga una vigencia superior a la terminación del Acuerdo permanecerá en vigor hasta su cumplimiento y se aplicará a los sucesores y cesionarios respectivos de ambas partes.
+
+4. Cargos
+
+Los Cargos, si los hubiera, se basan en el Uso Autorizado obtenido, que se especifica en la factura. IBM no ofrece créditos o reembolsos para cargos ya devengados o pagados, a no ser que se especifique de otra manera en este Acuerdo.
+
+Si el Licenciatario desea aumentar su Uso Autorizado, el Licenciatario deberá notificarlo con antelación a IBM o a un distribuidor autorizado de IBM y pagar cualquier cargo aplicable.
+
+5. Impuestos
+
+Si cualquier autoridad impone una tasa, impuesto, gravamen o cargo al Programa, con exclusión de aquellos impuestos relativos al beneficio neto empresarial de IBM, el Licenciatario acuerda pagar las cantidades correspondientes a dichos conceptos, tal y como se especifique en una factura, o presentará la documentación justificante de estar exento de los mismos. El Licenciatario es responsable de cualquier impuesto que grave la propiedad del Programa desde la fecha en la que el Licenciatario obtuvo el Programa. Si cualquier autoridad impone una tasa, impuesto, gravamen o cargo por la importación o exportación, traspaso, acceso o uso del Programa fuera del país en el que se otorgó la licencia al Licenciatario, el Licenciatario acuerda ser responsable de, y pagar, cualquier cantidad impuesta.
+
+6. Garantía de Devolución
+
+Si el Licenciatario no está satisfecho con el Programa por cualquier motivo y es el Licenciatario original, el Licenciatario puede terminar la licencia y obtener el reembolso del importe que ha pagado por el Programa, si lo hubiera, siempre y cuando el Licenciatario devuelva el Programa a la parte a la cual adquirió el Programa dentro del plazo de 30 días siguientes a la fecha de la factura. Si la licencia es de plazo fijo y está sujeta a renovación, el Licenciatario podrá obtener un reembolso únicamente si devuelve el Programa dentro de los primeros 30 días del plazo inicial. Si el Licenciatario descargó el Programa, el Licenciatario deberá ponerse en contacto con la parte a la cual adquirió el Programa para recibir instrucciones sobre cómo obtener el reembolso.
+
+7. Transferencia del Programa
+
+El Licenciatario puede transferir el Programa y todos sus derechos de licencia y obligaciones a cualquier tercero únicamente si dicha parte acepta los términos de este Acuerdo. Si cualquiera de las partes termina la licencia por cualquier motivo, se prohíbe que el Licenciatario transfiera el Programa a un tercero. El Licenciatario no transferirá una parte: 1) del Programa, o 2) del Uso Autorizado del Programa. Cuando el Licenciatario transfiere el Programa, deberá transferir también una copia impresa de este Acuerdo, incluyendo la LI. Después de la transferencia, se considera terminada la licencia del Licenciatario.
+
+8. Sin garantías
+
+SUJETO A CUALQUIER GARANTÍA ESTATUTARIA QUE NO PUDIERA EXCLUIRSE, IBM NO OFRECE NINGUNA GARANTÍA NI CONDICIÓN, NI EXPLÍCITA NI IMPLÍCITA, EN RELACIÓN CON EL PROGRAMA O EL SOPORTE, SI EXISTIERA, INCLUIDAS PERO SIN LIMITARSE A, LAS GARANTÍAS O CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN, CALIDAD SATISFACTORIA, IDONEIDAD PARA UNA FINALIDAD CONCRETA Y TITULARIDAD, Y CUALQUIER GARANTÍA O CONDICIÓN DE NO INFRACCIÓN DE LOS DERECHOS DE TERCEROS.
+
+LA EXCLUSIÓN DE GARANTÍAS EXPLÍCITAS O IMPLÍCITAS PUEDE NO ESTAR PERMITIDA POR ALGUNOS ESTADOS O JURISDICCIONES Y, POR TANTO, PUEDE QUE DICHA EXCLUSIÓN NO SEA APLICABLE AL LICENCIATARIO. EN TAL CASO, LA DURACIÓN DE DICHAS GARANTÍAS SE LIMITA AL PERIODO MÍNIMO QUE EXIJA LA LEGISLACIÓN. NO SE APLICARÁ NINGUNA GARANTÍA DESPUÉS DE ESE PERÍODO. ALGUNOS ESTADOS O JURISDICCIONES NO PERMITEN LIMITACIONES EN CUANTO A LA DURACIÓN DE UNA GARANTÍA IMPLÍCITA, POR LO PUEDE QUE LA LIMITACIÓN ANTERIOR NO SEA APLICABLE AL LICENCIATARIO. EL LICENCIATARIO PUEDE CONTAR CON OTROS DERECHOS QUE VARÍAN SEGÚN EL ESTADO O LA JURISDICCIÓN.
+
+LAS EXENCIONES DE RESPONSABILIDAD Y LAS EXCLUSIONES DE ESTA SECCIÓN 8 TAMBIÉN SE APLICAN A CUALQUIER PROVEEDOR O DESARROLLADOR DE PROGRAMAS DE IBM.
+
+LOS FABRICANTES, LOS PROVEEDORES Y LOS EDITORES DE PROGRAMAS NO IBM PUEDEN OFRECER SUS PROPIAS GARANTÍAS.
+
+IBM NO OFRECE SOPORTE DE NINGÚN TIPO, SALVO QUE IBM ESPECIFIQUE LO CONTRARIO. EN ESE CASO, CUALQUIER SOPORTE QUE OFREZCA IBM ESTÁ SUJETO A LAS EXENCIONES DE RESPONSABILIDAD Y A LAS EXCLUSIONES DE ESTA SECCIÓN 8.
+
+9. Datos y Bases de Datos del Licenciatario
+
+Para ayudar al Licenciatario a aislar el origen de un problema con el Programa, IBM podrá solicitar que el Licenciatario: 1) permita que IBM acceda de forma remota al sistema del Licenciatario, o 2) envíe información sobre el Licenciatario o datos del sistema a IBM. No obstante, IBM no está obligada a proporcionar dicha asistencia a menos que las Partes tengan un acuerdo, independiente y por escrito, mediante el cual IBM proporcione al Licenciatario dicho tipo de soporte que no está incluido en las obligaciones de IBM en este Acuerdo. En cualquier caso, IBM utilizará la información sobre errores y problemas para mejorar sus productos y servicios así como para prestar asistencia con su oferta de servicios de mantenimiento relacionados. Con esa finalidad, IBM podrá utilizar a subcontratistas y Empresas IBM (incluyendo en uno o más países distintos del país en el que se encuentra el Licenciatario) y el Licenciatario autoriza a IBM para ello.
+
+El Licenciatario permanecerá responsable de: 1) los datos y contenidos de cualquier base de datos que el Licenciatario ponga a disposición de IBM, 2) la selección y la implementación de los procedimientos y controles relacionados con el acceso, seguridad, encriptación, uso y transmisión de los datos (incluyendo cualquier dato personal que pueda identificarse), y 3) las copias de seguridad y la recuperación de cualquier base de datos y de cualquier dato almacenado. El Licenciatario no enviará a IBM ni le permitirá acceso a datos personales y permanecerá responsable por cualquier coste razonable u otras cantidades que IBM tenga que hacer frente en relación a cualquier información equivocadamente suministrada a IBM, o a la pérdida o revelación de la misma por IBM, incluso las originadas de reclamaciones de terceros.
+
+10. Limitación de Responsabilidad
+
+Las limitaciones y exclusiones de esta Cláusula 10 "Limitación de Responsabilidad" se aplicarán en la medida en que no las prohíba la legislación aplicable sin la posibilidad de una renuncia contractual.
+
+10.1 Aspectos por los que IBM Puede Ser Responsable
+
+Pueden surgir circunstancias en las cuales, debido a un incumplimiento de IBM de sus obligaciones contractuales u otra responsabilidad, el Licenciatario tuviera derecho a reclamar daños a IBM. Independientemente de las razones por las que el Licenciatario tenga derecho a reclamar daños a IBM (incluyendo un incumplimiento, negligencia, falsedad u otra reclamación contractual o extracontractual), la responsabilidad de IBM por todas las reclamaciones que surjan de, en relación con, cada Programa o que de otra manera surjan en relación con este Acuerdo estará limitada únicamente a: 1) los daños físicos a las personas (incluyendo la muerte) y daños a las propiedades, y 2) otros daños directos probados hasta el importe de los cargos (si el Programa está sujeto a cargos de plazo determinado, hasta el importe de los cargos de doce meses) que ha pagado el Licenciatario por el Programa que sea objeto de la reclamación.
+
+Este límite se aplica también a cualquier proveedor o desarrollador de Programas de IBM. Es la cantidad máxima por la que IBM y sus proveedores y desarrolladores de Programas serán responsables colectivamente.
+
+10.2 Aspectos por los que IBM No Es Responsable
+
+BAJO NINGUNA CIRCUNSTANCIA, IBM, SUS DESARROLLADORES DE PROGRAMAS O PROVEEDORES SERÁN RESPONSABLES DE LOS SIGUIENTES CASOS, INCLUSO EN EL CASO DE QUE HUBIERAN SIDO ADVERTIDOS DE TAL POSIBILIDAD:
+
+a. PÉRDIDAS DE, O DAÑOS A, LOS DATOS;
+
+b. DAÑOS ESPECIALES, INCIDENTALES, PUNITIVOS, INDIRECTOS O CUALQUIER DAÑO ECONÓMICO CONSECUENCIAL; O
+
+c. PÉRDIDAS DE BENEFICIOS, NEGOCIO, INGRESOS, PLUSVALÍAS O ECONOMÍAS PREVISTAS
+
+11. Verificación
+
+A los efectos de esta Cláusula 11 "Verificación", "Términos del Programa ILAN" significa: 1) este Acuerdo así como los Anexos aplicables y los documentos transaccionales proporcionados por IBM, y 2) las políticas de software de IBM que pueden encontrarse en el sitio web sobre Políticas de Software de IBM (www.ibm.com/softwarepolicies), incluyendo pero sin limitarse a las políticas relativas a las copias de seguridad, condiciones para los precios de subcapacidad y migración.
+
+Los derechos y obligaciones establecidos en esta Cláusula 11 permanecerán vigentes mientras el Licenciatario tenga una licencia en vigor para el Programa y durante los dos años siguientes.
+
+11.1 Proceso de Verificación
+
+El Licenciatario acuerda crear, conservar y proporcionar a IBM y a sus auditores registros escritos precisos, salidas de las herramientas del sistema y otra información sobre el sistema suficiente para verificar que el uso de todos los Programas por parte del Licenciatario se realiza conforme a los Términos del Programa ILAN, incluyendo, sin limitarse, todos los términos IBM sobre licencias y de calificación de precios aplicables. El Licenciatario es responsable de: 1) asegurar que no excede su Uso Autorizado, y 2) actuar de conformidad con los Términos del Programa ILAN.
+
+Previa notificación con antelación suficiente, IBM podrá verificar el cumplimiento por parte del Licenciatario de los Términos del Programa ILAN en todas las ubicaciones y para todos los entornos en los que el Licenciatario utilice, con cualquier finalidad, los Programas sujetos a los Términos del Programa ILAN. Dicha verificación se realizará de manera que se minimice la interferencia en la operativa de negocio del Licenciatario, en las instalaciones del Licenciatario, y durante su horario habitual de trabajo. IBM podrá utilizar a un auditor independiente para ayudar en la verificación, siempre que IBM tenga firmado, por escrito y con anterioridad, un acuerdo de confidencialidad con dicho auditor.
+
+11.2 Resolución
+
+IBM notificará al Licenciatario, por escrito, si conforme a dicha verificación el Licenciatario ha utilizado cualquier Programa sobrepasando su Uso Autorizado o no ha cumplido de otro modo con los Términos del Programa ILAN. El Licenciatario acuerda pagar, a la mayor brevedad posible, directamente a IBM los cargos que IBM especifique en una factura por: 1) cualquier uso en exceso, 2) el soporte por dicho uso en exceso durante el periodo que se ha realizado dicho uso en exceso o por dos años, lo que sea menor, y 3) cualquier cargo adicional y cualquier otra responsabilidad que el Cliente esté obligado a pagar como resultado de dicha verificación.
+
+12. Avisos de Terceros
+
+El Programa puede incluir código de terceros que IBM, no el tercero, otorga bajo licencia al Licenciatario en virtud de este Acuerdo. Los avisos, si los hubiera, para el código de terceros, ("Avisos de Terceros") se incluyen únicamente para información del Licenciatario. Estos avisos pueden encontrarse en los archivos de avisos del Programa. Se puede encontrar información sobre cómo obtener un código fuente para determinados códigos de terceros en los Avisos de Terceros. Si en los Avisos de Terceros, IBM identifica el código de terceros como "Código de Terceros Modificable", IBM autoriza al Licenciatario a: 1) modificar el Código de Terceros Modificable, y 2) realizar técnicas de ingeniería inversa a los módulos del Programa que se conectan con el Código de Terceros Modificable, siempre y cuando su única finalidad sea depurar las modificaciones realizadas por el Licenciatario a dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si las hubiera, se aplican únicamente al Programa sin modificar.
+
+13. General
+
+a. Nada de lo dispuesto en este Acuerdo afectará a los derechos de los consumidores establecidos por ley que no puedan ser cancelados o limitados por contrato.
+
+b. En relación con los Programas que IBM proporciona al Licenciatario de forma tangible, IBM cumple sus obligaciones de envío y entrega en el momento en que se entreguen dichos Programas al transportista designado por IBM, salvo que las partes lo acuerden, por escrito, de otro modo.
+
+c. Si cualquier disposición de este Acuerdo se declara inválida o no exigible, las disposiciones restantes de este Acuerdo permanecerán en vigor.
+
+d. El Licenciatario acuerda cumplir todas las leyes y normas aplicables sobre exportaciones e importaciones, incluyendo las normativas sobre sanciones y embargo de EE.UU. y las prohibiciones de exportaciones para ciertos usos o a determinados usuarios finales.
+
+e. El Licenciatario autoriza a International Business Machines Corporation y sus filiales (así como a sus sucesores y cesionarios, contratistas e IBM Business Partners) para almacenar y utilizar la información de contacto del Licenciatario, en cualquier lugar en el que desarrollen su actividad empresarial, en relación a los productos y servicios de IBM, o como consecuencia de la relación empresarial de IBM con el Licenciatario.
+
+f. Cada parte dará a la otra la oportunidad razonable de cumplir sus obligaciones en virtud del presente Acuerdo antes de reclamar a la otra por un incumplimiento de sus obligaciones contractuales. Las partes intentarán resolver de buena fe cualesquiera controversias, desacuerdos o reclamaciones relacionadas con este Acuerdo.
+
+g. Salvo que se establezca de otra manera en la legislación aplicable, sin posibilidad de renuncia contractual o limitación: 1) ninguna de las partes interpondrá acción legal alguna, independientemente de la forma, relacionada con este Acuerdo transcurridos más de dos años desde que se produjo su causa; y 2) transcurrido dicho periodo de tiempo, cualquier acción legal que surgiera en relación con el Acuerdo, así como todos los respectivos derechos relacionados con dicha acción, prescribirán.
+
+h. Ninguna de las partes será responsable del incumplimiento de cualquier obligación debido a causas fuera de control.
+
+i. Este Acuerdo no creará derecho alguno o causa de demanda para ningún tercero, ni IBM será responsable de las reclamaciones al Cliente de terceros, salvo por lo especificado en la Cláusula 10.1 "Aspectos por los que IBM Puede Ser Responsable" en relación con daños a las personas (incluyendo muerte) y a las propiedades de las que IBM sea legalmente responsable frente a dichos terceros.
+
+j. Al aceptar los términos de este Acuerdo, ambas partes acuerdan que no se están basando en ninguna manifestación que no esté incluida en este Acuerdo, incluyendo pero sin limitarse a cualquier manifestación en relación con: 1) el rendimiento o funcionamiento del Programa, 2) las experiencias o recomendaciones de otras partes; o 3) cualquier resultado o ahorro que el Licenciatario pudiera obtener.
+
+k. IBM tiene firmados acuerdos con determinadas organizaciones (denominadas "IBM Business Partners") para promocionar, comercializar y dar soporte a ciertos Programas. Los IBM Business Partners permanecerán independientes y son distintos de IBM. IBM no se hace responsable de las acciones o declaraciones de los IBM Business Partners ni de las obligaciones que éstos hayan contraído con el Licenciatario.
+
+l. Los términos de indemnización de propiedad intelectual y de licencia de otros acuerdos del Licenciatario con IBM (como las Condiciones Generales de IBM) no son de aplicación a las licencias de Programas concedidas en virtud de este Acuerdo.
+
+m. Ambas partes están de acuerdo en que la información intercambiada no es confidencial. Si alguna de las partes requiriera un intercambio de información confidencial, dicho intercambio se realizaría bajo un acuerdo de confidencialidad;
+
+14. Ámbito Geográfico y Legislación Aplicable
+
+14.1 Legislación Aplicable
+
+Ambas partes aceptan la aplicación de las leyes del país en el que el Licenciatario haya obtenido la licencia del Programa a fin de regir, interpretar y asegurar el cumplimiento de los derechos, deberes y obligaciones del Licenciatario y de IBM, respectivamente, que puedan surgir en virtud de, o que estén de cualquier manera relacionados con este Acuerdo, a pesar de cualquier posible conflicto de ley.
+
+No se aplican los términos de la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Bienes.
+
+14.2 Jurisdicción
+
+Todos los derechos, deberes y obligaciones están sujetos a los tribunales del país en el que el Licenciatario haya obtenido la licencia del Programa.
+
+Parte 2 - Condiciones Exclusivas para cada País
+
+Para las licencias otorgadas en los países especificados a continuación, los siguientes términos sustituyen o modifican los términos incluidos en la Parte 1. Todos los términos de la Parte 1 que no sean modificados por estas enmiendas permanecerán sin cambios y en vigor. Esta Parte 2 se estructura del siguiente modo:
+
+* Enmiendas para varios países de la Parte 1, Cláusula 14 "Legislación Aplicable y Jurisdicción";
+
+* Enmiendas de otros términos del Acuerdo para los países de América y
+
+* Enmiendas de otros términos del Acuerdo para los países de Europa, Oriente Medio y África.
+
+Enmiendas para varios países de la Parte 1, Cláusula 14 "Legislación Aplicable y Jurisdicción"
+
+14.1 Legislación Aplicable
+
+La frase "las leyes del país en el que el Licenciatario haya obtenido la licencia del Programa" en el primer párrafo de la Cláusula 14.1 "Legislación Aplicable" se sustituye por las frases siguientes en los países que figuran a continuación:
+
+AMÉRICA
+
+(1) En México: las leyes federales de la República de México; y
+
+(2) en Venezuela: las leyes de la República Bolivariana de Venezuela.
+
+14.2 Jurisdicción
+
+El siguiente párrafo pertenece al apartado de jurisdicción y sustituye a la Cláusula 14.2 "Jurisdicción" tal y como se aplica a los países identificados a continuación:
+
+Todos los derechos, deberes y obligaciones están sometidos a los tribunales del país en el que el Licenciatario haya obtenido la licencia del Programa excepto en los países identificados a continuación, en los que todas las disputas que surjan o se relacionen con este Acuerdo, incluyendo los procedimientos sumarios, se presentarán ante y se someterán a la jurisdicción exclusiva de los siguientes tribunales competentes:
+
+AMÉRICA
+
+(1) En Argentina: el Tribunal de Comercio Ordinario de la ciudad de Buenos Aires;
+
+(2) en Chile: el Juzgado de lo Civil de Santiago;
+
+(3) en Ecuador: los jueces de lo civil de Quito para los procesos sumarios o ejecutivos (según sea el caso);
+
+(4) en México: los tribunales ubicados en Ciudad de México, Distrito Federal;
+
+(5) en Perú: en Perú: los jueces y tribunales del distrito judicial de Lima, Cercado;
+
+(6) en Uruguay: los tribunales de la ciudad de Montevideo;
+
+(7) en Venezuela: los tribunales del área metropolitana de la ciudad de Caracas; y
+
+EUROPA, ORIENTE MEDIO Y ÁFRICA
+
+(8) en España: los tribunales de Madrid.
+
+APÉNDICES PARA PAÍSES AMERICANOS
+
+PERÚ
+
+10. Limitación de Responsabilidad
+
+Se añade lo siguiente al final de la Cláusula 10 "Limitación de Responsabilidad":
+
+Salvo que la legislación lo requiera expresamente sin posibilidad de renuncia contractual, el Licenciatario e IBM tienen la intención de que la limitación de responsabilidad expuesta en esta cláusula "Limitación de Responsabilidad" se aplique a los daños causados por todo tipo de reclamaciones y causa de acción. En el caso que un tribunal competente declare no exigible cualquier limitación o exclusión de responsabilidad de esta cláusula con respecto a una reclamación o derecho de iniciar acciones legales concreto, las partes tienen la intención de que se aplique a todas las demás reclamaciones y derechos de iniciar acciones legales hasta el grado máximo que permita la legislación aplicable.
+
+10.1 Aspectos por los que IBM Puede Ser Responsable
+
+Se añade lo siguiente al final de la Cláusula 10.1:
+
+De acuerdo con el Artículo 1328 del Código Civil Peruano, las limitaciones y exclusiones especificadas en esta sección no se aplicarán a los daños causados por la mala conducta deliberada de IBM ("dolo") o negligencia ("culpa inexcusable").
+
+ENMIENDAS PARA LOS PAÍSES DE EUROPA, ORIENTE MEDIO, ÁFRICA (EMEA)
+
+ESTADOS MIEMBROS DE LA UNIÓN EUROPEA
+
+8. Sin garantías
+
+Se añade lo siguiente a la Cláusula 8 (Sin garantías):
+
+En la Unión Europea ("EU"), los consumidores tienen derechos legales en virtud de la legislación nacional aplicable que rija la venta de bienes de consumo. Tales derechos no se ven afectados por las disposiciones expuestas en esta Cláusula 8 (Sin garantías).
+
+ESTADOS MIEMBROS DE LA UE Y LOS PAÍSES IDENTIFICADOS A CONTINUACIÓN
+
+Cualquier país europeo que haya promulgado legislación local relativa a privacidad de datos o donde haya una legislación similar al modelo de la UE.
+
+13. General
+
+Lo siguiente sustituye a la Cláusula 13.e:
+
+(1) Definiciones - A los efectos de esta Cláusula 13.e, se aplicarán las siguientes definiciones adicionales:
+
+(a) Información Comercial de Contacto - se entenderá como los datos de contacto relacionados al negocio, revelados a IBM por el Licenciatario, incluyendo nombres, puestos de trabajo, dirección profesional, números de teléfono y direcciones de correo electrónico de los empleados y contratistas del Licenciatario. Para Austria, Italia y Suiza, la Información Comercial de Contacto incluye también información sobre el Licenciatario y sus contratistas como entidades legales (por ejemplo, datos sobre los ingresos del Licenciatario y otra información transaccional)
+
+(b) Personal Comercial de Contacto - se entenderá como los empleados y contratistas del Licenciatario a los cuales se proporciona la Información Comercial de Contacto.
+
+(c) Autoridad de Protección de Datos - se entenderá como la autoridad establecida por la Legislación de Protección de Datos y Comunicaciones Electrónicas en el país aplicable o, para los países que no formen parte de la UE, la autoridad responsable de supervisar la protección de los datos personales en dichos países o (para cualquiera de los anteriores) cualquier entidad debidamente designada para ello con posterioridad.
+
+(d) Legislación de Protección de Datos y Comunicaciones Electrónicas - (i) la legislación nacional específica relacionada a la Directiva 46/95/CE, del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, y Directiva 58/2002/CE, del Parlamento Europeo y del Consejo, de 12 de julio de 2002, relativa al tratamiento de los datos personales y a la protección de la intimidad en el sector de las comunicaciones electrónicas (Directiva sobre la privacidad y las comunicaciones electrónicas); o (ii) para los países que no pertenezcan a la UE, significará la legislación específica relevante aplicable en el respectivo país relacionada con el uso y protección de datos de carácter personal y la intimidad en las comunicaciones electrónicas, incluyendo (para cualquiera de los anteriores) cualquier normativa posterior que las sustituya o modifique.
+
+(e) Grupo IBM - International Business Machines Corporation ubicada en Armonk, Nueva York, EE.UU., sus subsidiarias así como sus respectivos Business Partners y subcontratistas.
+
+(2) (2) El Licenciatario autoriza a IBM para:
+
+(a) procesar y utilizar la Información Comercial de Contacto dentro del Grupo IBM en beneficio del Licenciatario, incluyendo la prestación de servicios de soporte y con el fin de gestionar la relación empresarial entre el Licenciatario y el Grupo IBM, incluyendo, sin limitarse, a contactar con el Personal Comercial de Contacto (por correo electrónico o por otra vía) así como el marketing de productos y servicios del Grupo IBM (la "Finalidad Específica"); y
+
+(b) (b) revelar la Información Comercial de Contacto a otros miembros del Grupo IBM únicamente a los efectos de la Finalidad Específica.
+
+(3) (3) IBM acuerda que toda Información Comercial de Contacto se procesará de conformidad con la Legislación de Protección de Datos y Comunicaciones Electrónicas y se utilizará únicamente para la Finalidad Específica.
+
+(4) (4) El Licenciatario declara que, antes de proporcionar a IBM la Información Comercial de Contacto, ha obtenido o deberá obtener, cuando así lo requiera la Legislación de Protección de Datos y Comunicaciones Electrónicas, el consentimiento del Personal Comercial de Contacto, asimismo confirma que ha enviado o enviará las notificaciones pertinentes a dicho Personal Comercial de Contacto, de manera que el Grupo IBM esté facultado para procesar o usar la Información Comercial de Contacto para contactar con ellos para la Finalidad Especificada.
+
+(5) El Licenciatario consiente que IBM transfiera la Información Comercial de Contacto fuera del Espacio Económico Europeo, siempre y cuando dicha transferencia se realice bajo los términos contractuales aprobados por la Autoridad de Protección de Datos o por otra parte que la Legislación de Protección de Datos y Comunicaciones Electrónicas permita la transferencia.
+
+Z125-5589-05 (07/2011)
+
+
